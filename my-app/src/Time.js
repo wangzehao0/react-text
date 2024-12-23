@@ -4,7 +4,7 @@ export default function Time() {
         <p>The time is: {new Date().toLocaleTimeString()}.</p>
         <p>The time is: {new Date().toLocaleTimeString()}.</p>
         <p>The time is: {new Date().toLocaleTimeString()}.</p>
-        <p>The time is: {new Date().toLocaleTimeString()}.</p>
+        {/* <p>The time is: {new Date().toLocaleTimeString()}.</p> */}
       </div>
     );
   }
