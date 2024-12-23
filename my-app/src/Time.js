@@ -3,8 +3,8 @@ export default function Time() {
       <div>
         <p>The time is: {new Date().toLocaleTimeString()}.</p>
         <p>The time is: {new Date().toLocaleTimeString()}.</p>
-        <p>The time is: {new Date().toLocaleTimeString()}.</p>
-        <p>The time is: {new Date().toLocaleTimeString()}.</p>
+        {/* <p>The time is: {new Date().toLocaleTimeString()}.</p> */}
+        {/* <p>The time is: {new Date().toLocaleTimeString()}.</p> */}
       </div>
     );
   }
